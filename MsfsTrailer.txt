@@ -1,0 +1,57 @@
+<DOCTYPE html>
+<html>
+
+<body style="background-color:orange;">
+
+<h1> Xplane 12 </h1>
+
+<h2> What is it about? </h2>
+
+<h1> things i love: </h1>
+<li> Planes </li>
+<li> Planes </li>
+<li> and more planes </li>
+
+<img src="a350.jpg" alt="a350"
+width="600"
+height="300"
+>
+
+<p><strong>Takk!</strong></p>
+
+<img src="a330.jpg" alt="a330"
+width="400"
+height="250"
+
+<iframe width="625" height="350" src="https://www.youtube.com/embed/N05KBMKuXXU?si=WUDWRMYwNAevq7fp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <style>
+
+    body{
+      background-color: #F8FAF4;
+      text-align: center;
+    }
+
+    h1{
+      color:orange;
+      background-color:black;
+      font-size:72px;
+      text-decoration: uppercase;
+    }
+
+    span {
+      color:orange;
+    }
+
+
+body{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+    to top,
+    lightblue 50%,
+    white 75%,
+    lightblue 75%,
+    white 100%
+  );
+} 
